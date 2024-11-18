@@ -1,5 +1,6 @@
 
-[![Ma bannière](https://github.com/Florence-Navet/mon-repository/blob/main/img/banner.png)]
+[![Ma bannière](https://github.com/Florence-Navet/Florence-Navet/blob/main/github-header-image.png)](https://github.com/Florence-Navet/Florence-Navet/blob/main/github-header-image.png)
+
 
 
 # Bienvenue sur le Profil GitHub de Florence Navet 🌟

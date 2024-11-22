@@ -18,7 +18,8 @@ Bienvenue sur le dépôt GitHub de mon CV en ligne ! Ce projet présente mon par
 
 🌍 Localisation : Toulon, France  
 📩 Contact : Florence.Navet@outlook.fr  
-🔗 [Mon LinkedIn](https://www.linkedin.com/in/florence-navet-434131300/) | [Mon Portfolio](https://florence-navet.github.io/portefolio/)
+🔗 [Mon LinkedIn](https://www.linkedin.com/in/florence-navet-434131300/) | [Mon Portfolio](https://florence-navet.github.io/portefolio_navetflorence/)
+
 
 ## Compétences
 
@@ -47,7 +48,8 @@ Html et CSS cv sur VScode
 
 ## Contact
 📩 **Email** : Florence.Navet@outlook.fr  
-🌐 **Portfolio** : [Mon LinkedIn](https://www.linkedin.com/in/florence-navet-434131300/) | [Mon Portfolio](https://florence-navet.github.io/portefolio/) 
+🌐 **Portfolio** : [Mon LinkedIn](https://www.linkedin.com/in/florence-navet-434131300/) | [Mon Portfolio](https://florence-navet.github.io/portefolio_navetflorence/)
+
 💼 **LinkedIn** : [Florence Navet](https://www.linkedin.com/florence-navet-434131300/)  
 💻 **GitHub** : [Florence-Navet](https://github.com/Florence-Navet) 
 ## Statistiques GitHub

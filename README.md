@@ -12,7 +12,7 @@ Bienvenue sur le dépôt GitHub de mon CV en ligne ! Ce projet présente mon par
 
 ## À propos de Moi
 
-👋 Je suis **Florence Navet**, développeuse web en reconversion professionnelle. Actuellement en formation à **La Plateforme_** pour obtenir mon Bachelor IT, je me spécialise dans le développement web et mobile.
+👋 Je suis **Florence Navet**, développeuse logiciel/web en reconversion professionnelle. Actuellement en formation à **La Plateforme_** pour obtenir mon Bachelor IT, je me spécialise dans le développement logiciel/web et mobile.
 
 ✨ Mon objectif : créer des applications modernes et des expériences utilisateur fluides tout en consolidant mes compétences techniques et professionnelles.
 

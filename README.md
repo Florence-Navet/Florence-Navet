@@ -1,14 +1,8 @@
-
 [![Ma bannière](https://github.com/Florence-Navet/Florence-Navet/blob/main/enola.png)](https://github.com/Florence-Navet/Florence-Navet/blob/main/enola.png)
-
-
-
 
 # Bienvenue sur le Profil GitHub de Florence Navet 🌟
 
-
 Bienvenue sur le dépôt GitHub de mon CV en ligne ! Ce projet présente mon parcours professionnel, mes compétences, et mes centres d'intérêt dans un format web interactif.
-
 
 ## À propos de Moi
 
@@ -34,13 +28,13 @@ Bienvenue sur le dépôt GitHub de mon CV en ligne ! Ce projet présente mon par
 
 Un site web interactif présentant mes réalisations et compétences.
 
-🕹️ **[Création d'un jeu Tic Tac Toe]([[https://github.com/Florence-Navet/Morpion_class](https://github.com/Florence-Navet/Morpion)])**  
+🕹️ **[Création d'un jeu Tic Tac Toe](https://github.com/Florence-Navet/Morpion_class)**  
 Création d'un projet perso
 
-🎨 **[Création d'un site]([[https://github.com/Florence-Navet/SiteFans](https://github.com/Florence-Navet/SiteFans)])**   
-Création d'un projet en commun s'un site de fan
+🎨 **[Création d'un site](https://github.com/Florence-Navet/SiteFans)**   
+Création d'un projet en commun d'un site de fan
 
-📚 **[Site d'un site de fleurs]([[https://github.com/Florence-Navet/BloomPetal](https://github.com/Florence-Navet/BloomPetal)])**  
+📚 **[Site d'un site de fleurs](https://github.com/Florence-Navet/BloomPetal)**  
 Création d'un site de fleurs en solo.
 
 🔧 **[Site de Présentation](#)**  
@@ -53,6 +47,7 @@ Html et CSS cv sur VScode
 🌐 **Portfolio** :  [Mon Portfolio](https://florence-navet.github.io/portefolio/)
 💼 **LinkedIn** : [Mon LinkedIn](https://www.linkedin.com/florence-navet-434131300/)  
 💻 **GitHub** : [MON-GITHUB](https://github.com/Florence-Navet) 
+
 ## Statistiques GitHub
 
 ![Stats GitHub](https://github-readme-stats.vercel.app/api?username=Florence-Navet&show_icons=true&theme=radical)

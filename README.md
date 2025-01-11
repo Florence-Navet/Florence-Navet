@@ -16,7 +16,7 @@ Bienvenue sur le dépôt GitHub de mon CV en ligne ! Ce projet présente mon par
 
 ## Compétences
 
-- **Langages** : HTML5, CSS, 
+- **Langages** : HTML5, CSS, JS, Python
 - **Logiciels** : Microsoft Word, Excel, PowerPoint  
 - **Autres compétences** :  
   - Création et gestion de sites via Wix et Eklablog  

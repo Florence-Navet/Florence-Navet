@@ -34,10 +34,10 @@ Bienvenue sur le dépôt GitHub de mon CV en ligne ! Ce projet présente mon par
 
 Un site web interactif présentant mes réalisations et compétences.
 
-🕹️ **[Création d'un jeu Tic Tac Toe]([https://github.com/Florence-Navet/Morpion_class])**
+🕹️ **[Création d'un jeu Tic Tac Toe]([https://github.com/Florence-Navet/Morpion_class])**  
 Création d'un projet perso
 
-🎨 **[Création d'un site]([https://github.com/Florence-Navet/SiteFans])**  
+🎨 **[Création d'un site]([https://github.com/Florence-Navet/SiteFans])**   
 Création d'un projet en commun s'un site de fan
 
 📚 **[Site d'un site de fleurs]([https://github.com/Florence-Navet/BloomPetal])**  

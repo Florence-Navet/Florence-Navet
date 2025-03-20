@@ -29,6 +29,10 @@ Bienvenue sur le dépôt GitHub de mon CV en ligne ! Ce projet présente mon par
 
 Un site web interactif présentant mes réalisations et compétences.
 
+
+🕹️ **[Création d'un jeu Pokémo](https://github.com/Florence-Navet/pokemon)**  
+Création d'un jeu pokémon sur pygame, avec combat pokemon et joueur sur map  
+  
 🕹️ **[Création d'un jeu Tic Tac Toe](https://github.com/Florence-Navet/Morpion_class)**  
 Création d'un projet perso
 

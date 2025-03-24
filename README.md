@@ -17,27 +17,28 @@ Bienvenue sur le dépôt GitHub de mon CV en ligne ! Ce projet présente mon par
 
 ## Compétences
 
-- **Langages** : HTML5, CSS, JS, Python
-- **Logiciels** : Microsoft Word, Excel, PowerPoint  
+- **Langages** : HTML5, CSS, JS, Python, mysql
+- **Logiciels** : Microsoft Word, Excel, PowerPoint,   
 - **Autres compétences** :  
   - Création et gestion de sites via Wix et Eklablog  
   - Systèmes d'exploitations, débian, linux, installation VM
   - Administration de serveurs Discord  
   - Gestion de contenu et réseaux sociaux
+  - Développement d'applications graphiques et jeux avec Pygame, Tkinter, et CustomTkinter
 
 ## Projets
 
 Un site web interactif présentant mes réalisations et compétences.
 
 
-🕹️ **[Création d'un jeu Pokémo](https://github.com/Florence-Navet/pokemon)**  
+🕹️ **[Création d'un jeu Pokémon](https://github.com/Florence-Navet/pokemon)**  
 Création d'un jeu pokémon sur pygame, avec combat pokemon et joueur sur map  
   
 🕹️ **[Création d'un jeu Tic Tac Toe](https://github.com/Florence-Navet/Morpion_class)**  
 Création d'un projet perso
 
-🎨 **[Création d'un site](https://github.com/Florence-Navet/SiteFans)**   
-Création d'un projet en commun d'un site de fan
+🎨 **[Création d'un jeu du pendu](https://github.com/Florence-Navet/pendu)**   
+Création d'un projet en commun d'un jeu du pendu
 
 📚 **[Site d'un site de fleurs](https://github.com/Florence-Navet/BloomPetal)**  
 Création d'un site de fleurs en solo.

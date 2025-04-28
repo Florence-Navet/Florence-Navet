@@ -35,7 +35,7 @@ Un site web interactif présentant mes réalisations et compétences.
 🕹️ **[Création d'un jeu Pokémon](https://github.com/Florence-Navet/pokemon)**  
 Création d'un jeu pokémon sur pygame, avec combat pokemon et joueur sur map  
   
-🕹️ **[Création d'un jeu Tic Tac Toe](https://github.com/Florence-Navet/typing-game)**  
+🕹️ **[Création d'un jeu Typing Game](https://github.com/Florence-Navet/typing-game)**  
 Création d'un projet à trois, algorythmie, pygame et python.
 
 🎨 **[Création d'un jeu du pendu](https://github.com/Florence-Navet/pendu)**   

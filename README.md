@@ -17,14 +17,15 @@ Bienvenue sur le dépôt GitHub de mon CV en ligne ! Ce projet présente mon par
 
 ## Compétences
 
-- **Langages** : HTML5, CSS, JS, Python, mysql
-- **Logiciels** : Microsoft Word, Excel, PowerPoint,   
+- **Langages** : Python, C, SQL,  HTML5, CSS, JS
+- **Logiciels** : Microsoft Word, Excel, PowerPoint, GIT, GITHUT, VMWARE  
 - **Autres compétences** :  
   - Création et gestion de sites via Wix et Eklablog  
   - Systèmes d'exploitations, débian, linux, installation VM
   - Administration de serveurs Discord  
   - Gestion de contenu et réseaux sociaux
-  - Développement d'applications graphiques et jeux avec Pygame, Tkinter, et CustomTkinter
+  - Développement d'applications graphiques et jeux avec Pygame, Tkinter, CustomTkinter et GTK
+  - Installation WSL, gcc, win, PostgreSQL avec msys64, make
 
 ## Projets
 
@@ -34,23 +35,23 @@ Un site web interactif présentant mes réalisations et compétences.
 🕹️ **[Création d'un jeu Pokémon](https://github.com/Florence-Navet/pokemon)**  
 Création d'un jeu pokémon sur pygame, avec combat pokemon et joueur sur map  
   
-🕹️ **[Création d'un jeu Tic Tac Toe](https://github.com/Florence-Navet/Morpion_class)**  
-Création d'un projet perso
+🕹️ **[Création d'un jeu Tic Tac Toe](https://github.com/Florence-Navet/typing-game)**  
+Création d'un projet à trois, algorythmie, pygame et python.
 
 🎨 **[Création d'un jeu du pendu](https://github.com/Florence-Navet/pendu)**   
-Création d'un projet en commun d'un jeu du pendu
+Création d'un projet en commun d'un jeu du pendu avec interface graphique pygame en python.
 
-📚 **[Site d'un site de fleurs](https://github.com/Florence-Navet/BloomPetal)**  
-Création d'un site de fleurs en solo.
+📚 **[Application - Gestion de Stock](https://github.com/Florence-Navet/runtrack-gestion_de_stock)**  
+Création d'une application de gestion de stock - projet solo en python avec base de données sql.
 
 🔧 **[Site de Présentation](#)**  
 
-**[CV](#)**  
-Html et CSS cv sur VScode
+**[Portefolio](#)**  
+Html, CSS et JS sur VScode
 
 ## Contact
-📩 **Email** : Florence.Navet@outlook.fr  
-🌐 **Portfolio** :  [Mon Portfolio](https://florence-navet.github.io/portefolio/)
+📩 **Email** : florence.navet@outlook.fr  
+🌐 **Portfolio** :  [Mon Portfolio](https://florence-navet.github.io/portefolio_responsive/)
 💼 **LinkedIn** : [Mon LinkedIn](https://www.linkedin.com/florence-navet-434131300/)  
 💻 **GitHub** : [MON-GITHUB](https://github.com/Florence-Navet) 
 

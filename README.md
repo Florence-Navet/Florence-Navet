@@ -18,7 +18,7 @@ Bienvenue sur le dépôt GitHub de mon CV en ligne ! Ce projet présente mon par
 ## Compétences
 
 - **Langages** : Python, C, SQL,  HTML5, CSS, JS
-- **Logiciels** : Microsoft Word, Excel, PowerPoint, GIT, GITHUT, VMWARE  
+- **Logiciels** : Microsoft Word, Excel, PowerPoint, GIT, GITHUB, VMWARE  
 - **Autres compétences** :  
   - Création et gestion de sites via Wix et Eklablog  
   - Systèmes d'exploitations, débian, linux, installation VM

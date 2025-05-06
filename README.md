@@ -52,7 +52,7 @@ Html, CSS et JS sur VScode
 ## Contact
 📩 **Email** : florence.navet@outlook.fr  
 🌐 **Portfolio** :  [Mon Portfolio](https://florence-navet.github.io/Portefolio_responsive/)
-💼 **LinkedIn** : [Mon LinkedIn](https://www.linkedin.com/florence-navet-434131300/)  
+💼 **LinkedIn** : [Mon LinkedIn](https://www.linkedin.com/in/florence-navet/)  
 💻 **GitHub** : [MON-GITHUB](https://github.com/Florence-Navet) 
 
 ## Statistiques GitHub

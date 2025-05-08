@@ -62,4 +62,5 @@ Html, CSS et JS sur VScode
 
 ## 🏆 GitHub Profile Trophy
 
-[![Trophées GitHub](https://github-profile-trophy.vercel.app/?username=Florence-Navet&theme=radical&margin-w=15&margin-h=15)](https://github.com/ryo-ma/github-profile-trophy)
+[![Trophées GitHub](https://github-profile-trophy.vercel.app/?username=Florence-Navet&theme=tokyonight&margin-w=15&margin-h=15)](https://github.com/ryo-ma/github-profile-trophy)
+

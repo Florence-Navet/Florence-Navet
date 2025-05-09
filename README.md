@@ -10,7 +10,7 @@ Bienvenue sur le dépôt GitHub de mon CV en ligne ! Ce projet présente mon par
 
 ✨ Mon objectif : créer des applications modernes et des expériences utilisateur fluides tout en consolidant mes compétences techniques et professionnelles.
 
-🌍 Localisation : Toulon, France  
+🌍 Localisation : Toulon, France (mobile) 
 📩 Contact : Florence.Navet@outlook.fr  
 🔗 [Mon LinkedIn](https://www.linkedin.com/in/florence-navet-434131300/) | [Mon Portfolio](https://florence-navet.students-laplateforme.io/)
 

@@ -58,8 +58,7 @@ Html, CSS et JS sur VScode
 ## Statistiques GitHub
 
 
-![Stats GitHub](https://github-readme-stats.vercel.app/api?username=Florence-Navet&show_icons=true&theme=radical)
-![Top Langages](https://github-readme-stats.vercel.app/api/top-langs/?username=Florence-Navet&layout=compact&theme=radical)
+![Stats GitHub](https://github-readme-stats.vercel.app/api?username=Florence-Navet&show_icons=true&theme=tokyonight)
 ![Top Langages](https://github-readme-stats.vercel.app/api/top-langs/?username=Florence-Navet&layout=compact&theme=tokyonight&langs_count=10)
 
 

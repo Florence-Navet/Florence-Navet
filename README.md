@@ -56,6 +56,7 @@ Html, CSS et JS sur VScode
 💻 **GitHub** : [MON-GITHUB](https://github.com/Florence-Navet) 
 
 ## Statistiques GitHub
+![Trophées GitHub](https://github-profile-trophy.vercel.app/?username=Florence-Navet)
 
 ![Stats GitHub](https://github-readme-stats.vercel.app/api?username=Florence-Navet&show_icons=true&theme=radical)
 ![Top Langages](https://github-readme-stats.vercel.app/api/top-langs/?username=Florence-Navet&layout=compact&theme=radical)

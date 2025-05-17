@@ -1,6 +1,6 @@
 [![Ma bannière](https://github.com/Florence-Navet/Florence-Navet/blob/main/enola.png)](https://github.com/Florence-Navet/Florence-Navet/blob/main/enola.png)
 
-![Profil Views](https://komarev.com/ghpvc/?username=enolaworld&label=Vues&color=ff69b4&style=flat)
+![Profil Views](https://komarev.com/ghpvc/?username=enolaworld&label=Vues%20du%20profil&color=800080&style=flat)
 
 
 # Bienvenue sur le Profil GitHub de Florence Navet 🌟

@@ -21,7 +21,7 @@ Bienvenue sur le dépôt GitHub de mon CV en ligne ! Ce projet présente mon par
 
 ## Compétences
 
-- **Langages** : Python, C, SQL,  HTML5, CSS, JS
+- **Langages** : Python, C, C++, C#, JAVA, SQL, HTML5, CSS, JS
 - **Logiciels** : Microsoft Word, Excel, PowerPoint, GIT, GITHUB, VMWARE  
 - **Autres compétences** :  
   - Création et gestion de sites via Wix et Eklablog  
@@ -34,6 +34,11 @@ Bienvenue sur le dépôt GitHub de mon CV en ligne ! Ce projet présente mon par
 ## Projets
 
 Un site web interactif présentant mes réalisations et compétences.
+
+
+🧮 **[Création d'une application de conversion](https://github.com/Florence-Navet/globalConverter)**   
+Application Java en console pour convertir du texte entre bases numériques  
+(binaire, décimal, hexadécimal…) et chiffrer/déchiffrer avec le code César.  
 
 
 🕹️ **[Création d'un jeu Pokémon](https://github.com/Florence-Navet/pokemon)**  

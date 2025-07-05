@@ -36,6 +36,10 @@ Bienvenue sur le dépôt GitHub de mon CV en ligne ! Ce projet présente mon par
 Un site web interactif présentant mes réalisations et compétences.
 
 
+🎮 **[Création d'une nouvelle version jeu Demineur](https://github.com/Florence-Navet/minsweepper)**   
+Menu interactif et jeu Démineur en Python avec Pygame, incluant réglages de difficulté,  
+résolution, écran de victoire et interface personnalisable  
+  
 🧮 **[Création d'une application de conversion](https://github.com/Florence-Navet/globalConverter)**   
 Application Java en console pour convertir du texte entre bases numériques  
 (binaire, décimal, hexadécimal…) et chiffrer/déchiffrer avec le code César.  

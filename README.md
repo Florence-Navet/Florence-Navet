@@ -55,8 +55,8 @@ Html, CSS et JS sur VScode
 
 ## Contact
 📩 **Email** : florence.navet@outlook.fr  
-🌐 **Portfolio** :  [Mon Portfolio](https://florence-navet.github.io/Portefolio_responsive/)
-📄 **CV en ligne** : [florencenavetcv.netlify.app](https://florencenavetcv.netlify.app)
+🌐 **Portfolio** :  [Mon Portfolio](https://florence-navet.github.io/Portefolio_responsive/)  
+📄 **CV en ligne** : [florencenavetcv.netlify.app](https://florencenavetcv.netlify.app)  
 💼 **LinkedIn** : [Mon LinkedIn](https://www.linkedin.com/in/florence-navet/)  
 💻 **GitHub** : [MON-GITHUB](https://github.com/Florence-Navet) 
 

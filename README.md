@@ -82,7 +82,12 @@ Html, CSS et JS sur VScode
 
 ## 🔝 Top Contributed Repo  
   
-[![Florence's GitHub stats](https://github-readme-stats.vercel.app/api?username=Florence-Navet&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+[![Florence's GitHub stats](https://github-readme-stats.vercel.app/api?username=Florence-Navet&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)  
+
+
+[![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Florence-Navet&theme=tokyonight)](https://github.com/vn7n24fzkq/github-profile-summary-cards)  
+[![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-repo?username=Florence-Navet&theme=tokyonight)](https://github.com/vn7n24fzkq/github-profile-summary-cards)  
+
 
 
 

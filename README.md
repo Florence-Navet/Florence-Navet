@@ -82,6 +82,7 @@ Html, CSS et JS sur VScode
 
 ## 🔝 Top Contributed Repo  
   
-[![Top Contributed Repo](https://github-contributor-badge.herokuapp.com/badge?user=Florence-Navet)](https://github.com/Florence-Navet)  
+[![GitHub contributors](https://img.shields.io/github/contributors/Florence-Navet/SomeRepo.svg)](https://github.com/Florence-Navet/SomeRepo)
+
 
 

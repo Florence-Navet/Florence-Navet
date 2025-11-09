@@ -34,7 +34,8 @@
 
 Un site web interactif présentant mes réalisations et compétences.
 
-🕹️ **[Création d'un jeu RPG sur unity avec des scripts c#](https://github.com/Florence-Navet/uniquest)**
+🕹️ **[Création d'un jeu RPG sur unity avec des scripts c#](https://github.com/Florence-Navet/uniquest)**  
+
 Menu interactif sur Unity hub, environnement Docker en c#. Système de combat RGP avec map. Système d'inventaire : potion de défense, d'attaque ou de fuite. Possibilité d'exploration sur une map.
 
 🎮 **[Création d'une nouvelle version jeu Demineur](https://github.com/Florence-Navet/minsweepper)**  

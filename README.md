@@ -63,7 +63,10 @@ Création d'un projet à trois, algorythmie, pygame et python.
 Création d'un projet en commun d'un jeu du pendu avec interface graphique pygame en python.
 
 📚 **[Application - Gestion de Stock](https://github.com/Florence-Navet/runtrack-gestion_de_stock)**  
-Création d'une application de gestion de stock - projet solo en python avec base de données sql.
+Création d'une application de gestion de stock - projet solo en python avec base de données sql.  
+
+
+<hr style="height:1px; background-color:#999; border:none;">
 
 🔧 **[Site de Présentation](#)**
 

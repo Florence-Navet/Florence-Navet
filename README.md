@@ -2,7 +2,7 @@
 
 ![Profil Views](https://komarev.com/ghpvc/?username=enolaworld&label=Vues%20du%20profil&color=36CEEC&style=flat)
 
-#Bienvenue sur le Profil GitHub de Florence Navet 🌟  
+ **#Bienvenue sur le Profil GitHub de Florence Navet** 🌟  
   
 > Bienvenue sur le dépôt GitHub de mon CV en ligne ! Ce projet présente mon parcours professionnel, mes compétences, et mes centres d'intérêt dans un format web interactif.
 

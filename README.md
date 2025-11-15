@@ -66,8 +66,10 @@ Création d'un projet en commun d'un jeu du pendu avec interface graphique pygam
 Création d'une application de gestion de stock - projet solo en python avec base de données sql.  
 
 
-<hr style="height:0.5em; background-color:#ccc; border:none;">
-<hr style="height:0.5rem; background-color:#999; border:none;">
+<hr style="height:4px background-color:#ccc; border:none;">
+
+##   
+
 
 🔧 **[Site de Présentation](#)**
 

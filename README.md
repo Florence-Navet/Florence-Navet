@@ -33,7 +33,7 @@
 ## Projets
 
 Un site web interactif présentant mes réalisations et compétences.  
-🧱 **[Création d'un jeu RPG sur unity avec des scripts c#](https://github.com/Florence-Navet/break-breaker)**  
+🧱 **[Création d'un jeu RPG avec SFML en cpp](https://github.com/Florence-Navet/break-breaker)**  
 Jeu d'arcade rétro avec un sytème de vie, et multi-niveau des briques   
 
 🕹️ **[Création d'un jeu RPG sur unity avec des scripts c#](https://github.com/Florence-Navet/uniquest)**  

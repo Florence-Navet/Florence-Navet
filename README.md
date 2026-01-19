@@ -8,7 +8,7 @@
 
 ## À propos de Moi
 
-👋 Je suis **Florence Navet**, développeuse logiciel/web en reconversion professionnelle. Actuellement en formation à **La Plateforme\_** pour obtenir mon Bachelor IT, je me spécialise dans le développement logiciel/web et mobile.
+👋 Je suis **Florence Navet**, développeuse logiciel/web en reconversion professionnelle. Actuellement en formation à **La Plateforme\_** et en alternance assitante de projet cher **NGE\_** pour obtenir mon Bachelor IT, je me spécialise dans le développement logiciel/web et mobile.
 
 ✨ Mon objectif : créer des applications modernes et des expériences utilisateur fluides tout en consolidant mes compétences techniques et professionnelles.
 

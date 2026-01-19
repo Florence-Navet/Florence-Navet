@@ -2,81 +2,101 @@
 
 ![Profil Views](https://komarev.com/ghpvc/?username=enolaworld&label=Vues%20du%20profil&color=36CEEC&style=flat)
 
-### **Bienvenue sur le Profil GitHub de Florence Navet** 🌟  
-  
-> Bienvenue sur le dépôt GitHub de mon CV en ligne ! Ce projet présente mon parcours professionnel, mes compétences, et mes centres d'intérêt dans un format web interactif.
+# 👋 Bienvenue sur le GitHub de Florence Navet
 
-## À propos de Moi
-
-👋 Je suis **Florence Navet**, développeuse logiciel/web en reconversion professionnelle. Actuellement en formation à **La Plateforme** et en alternance assistante de projet chez **NGE** pour obtenir mon Bachelor IT, je me spécialise dans le développement logiciel/web et mobile.
-
-✨ Mon objectif : créer des applications modernes et des expériences utilisateur fluides tout en consolidant mes compétences techniques et professionnelles.
-
-🌍 Localisation : Toulon, France (mobile)
-📩 Contact : Florence.Navet@outlook.fr
-🔗 [Mon LinkedIn](https://www.linkedin.com/in/florence-navet-434131300/) | [Mon Portfolio](https://florence-navet.github.io/Portefolio_responsive/)
+> Ici vous trouverez mes projets, mon parcours et mes compétences.  
+> Je construis des applications et des jeux en mettant l’accent sur la logique, la qualité du code et l’expérience utilisateur.
 
 ---
 
-## Compétences
+## 🧠 À propos de moi
 
-- **Langages** : Python, C, C++, C#, JAVA, SQL, HTML5, CSS, JS
-- **Logiciels** : Microsoft Word, Excel, PowerPoint, GIT, GITHUB, VMWARE
-- **Autres compétences** :
-  - Création et gestion de sites via Wix et Eklablog
-  - Systèmes d'exploitations, débian, linux, installation VM
-  - Administration de serveurs Discord
-  - Gestion de contenu et réseaux sociaux
-  - Développement d'applications graphiques et jeux avec Pygame, Tkinter, CustomTkinter et GTK, utilisant docker
-  - Installation WSL, gcc, win, PostgreSQL avec msys64, make
+Je suis **Florence Navet**, développeuse logiciel/web en reconversion professionnelle.  
+Actuellement en formation à **La Plateforme** (Bachelor IT) et en alternance chez **NGE**, je développe des projets en **C# / C++ / Java / Web**.
 
-## Projets
+🎯 Objectif : créer des applications modernes, fiables et agréables à utiliser, en progressant sur des projets concrets.
 
-Un site web interactif présentant mes réalisations et compétences.  
-🧱 **[Création d'un jeu RPG avec SFML en cpp](https://github.com/Florence-Navet/brick-breaker)**  
-Jeu d'arcade rétro avec un sytème de vie, et multi-niveau des briques   
+📍 Toulon, France (mobile)  
+📩 **Florence.Navet@outlook.fr**  
+🔗 [LinkedIn](https://www.linkedin.com/in/florence-navet-434131300/) | [Portfolio](https://florence-navet.github.io/Portefolio_responsive/)
 
-🕹️ **[Création d'un jeu RPG sur unity avec des scripts c#](https://github.com/Florence-Navet/uniquest)**  
+---
 
-Menu interactif sur Unity hub, environnement Docker en c#. Système de combat RGP avec map.   
-Système d'inventaire : potion de défense, d'attaque ou de fuite. Possibilité d'exploration sur une map.
+## 🧰 Compétences
 
-🎮 **[Création d'une nouvelle version jeu Demineur](https://github.com/Florence-Navet/minsweepper)**  
-Menu interactif et jeu Démineur en Python avec Pygame, incluant réglages de difficulté,  
-résolution, écran de victoire et interface personnalisable
+### Langages
+- **C#**, **SQL**, **C++**, **Java**, **JavaScript**, **Python**, **HTML/CSS**
 
-🧮 **[Création d'une application de conversion](https://github.com/Florence-Navet/globalConverter)**  
-Application Java en console pour convertir du texte entre bases numériques  
-(binaire, décimal, hexadécimal…) et chiffrer/déchiffrer avec le code César.
+### Frameworks & Librairies
+- **Web / .NET** : **Blazor**, **MudBlazor**, **ASP.NET Core**
+- **Jeux / Graphique** : **SDL3** (SDL_ttf), **SFML**, **Pygame**
+- **UI Desktop** : Tkinter, CustomTkinter, GTK
 
-🕹️ **[Création d'un jeu Pokémon](https://github.com/Florence-Navet/pokemon)**  
-Création d'un jeu pokémon sur pygame, avec combat pokemon et joueur sur map
+### Outils & Environnements
+- Git / GitHub, VS Code, Visual Studio, IntelliJ  
+- Docker (notions + environnement de dev), Linux / Debian, VM (VMware), WSL
 
-🚀 **[Création d'un jeu Typing Game](https://github.com/Florence-Navet/typing-game)**  
-Création d'un projet à trois, algorythmie, pygame et python.
+### Cloud / Déploiement
+- **Azure** *(notions / découverte : déploiement & services cloud)*  
+- Netlify / GitHub Pages
 
-🎨 **[Création d'un jeu du pendu](https://github.com/Florence-Navet/pendu)**  
-Création d'un projet en commun d'un jeu du pendu avec interface graphique pygame en python.
+---
 
-📚 **[Application - Gestion de Stock](https://github.com/Florence-Navet/runtrack-gestion_de_stock)**  
-Création d'une application de gestion de stock - projet solo en python avec base de données sql.  
+## 🚀 Projets (sélection)
 
-##   
+🎮 **Jeu Brick Breaker en C++ (SFML)**  
+➡️ Jeu arcade rétro avec système de vies, plusieurs niveaux et briques.  
+🔗 https://github.com/Florence-Navet/brick-breaker
 
-🔧 **[Site de Présentation](#)**
+🕹️ **Jeu RPG sur Unity (C#)**  
+➡️ Menu interactif, map d’exploration, système de combat, inventaire (potions / fuite).  
+🔗 https://github.com/Florence-Navet/uniquest
 
-**[Portefolio](#)**  
-Html, CSS et JS sur VScode
+💣 **Démineur en Python (Pygame)**  
+➡️ Interface graphique + difficulté + écran victoire + personnalisation.  
+🔗 https://github.com/Florence-Navet/minsweepper
 
-## Contact
+🧮 **Global Converter (Java Console)**  
+➡️ Conversion texte ↔ bases numériques (binaire/décimal/hex…), + chiffrement César.  
+🔗 https://github.com/Florence-Navet/globalConverter
 
-📩 **Email** : florence.navet@outlook.fr  
-🌐 **Portfolio** : [Mon Portfolio](https://florence-navet.github.io/Portefolio_responsive/)  
-📄 **CV en ligne** : [florencenavetcv.netlify.app](https://florencenavetcv.netlify.app)  
-💼 **LinkedIn** : [Mon LinkedIn](https://www.linkedin.com/in/florence-navet/)  
-💻 **GitHub** : [MON-GITHUB](https://github.com/Florence-Navet)
+🐉 **Jeu Pokémon (Python / Pygame)**  
+➡️ Map + combats Pokémon.  
+🔗 https://github.com/Florence-Navet/pokemon
 
-## Statistiques GitHub
+⌨️ **Typing Game (Python / Pygame, projet en équipe)**  
+➡️ Algorithmes + gestion des scores et gameplay rapide.  
+🔗 https://github.com/Florence-Navet/typing-game
+
+🎨 **Jeu du Pendu (Python / Pygame, projet en équipe)**  
+➡️ Interface graphique et gameplay complet.  
+🔗 https://github.com/Florence-Navet/pendu
+
+📦 **Gestion de Stock (C# / Console)**  
+➡️ Modélisation + gestion de mouvements de stock, alertes et logique métier.  
+🔗 https://github.com/Florence-Navet/runtrack-gestion_de_stock
+
+---
+
+## 💡 Technologies en cours / prochaines étapes
+
+- Approfondissement **Blazor + MudBlazor** (UI, composants, validation)
+- Mise en place de mini-projets **déployés** (Azure / CI/CD)
+- Renforcement **C++** (architecture, clean code, gestion mémoire, tests)
+
+---
+
+## 📬 Contact
+
+📩 **Email** : Florence.Navet@outlook.fr  
+🌐 **Portfolio** : https://florence-navet.github.io/Portefolio_responsive/  
+📄 **CV en ligne** : https://florencenavetcv.netlify.app  
+💼 **LinkedIn** : https://www.linkedin.com/in/florence-navet-434131300/  
+💻 **GitHub** : https://github.com/Florence-Navet  
+
+---
+
+## 📊 Statistiques GitHub
 
 ![Stats GitHub](https://github-readme-stats.vercel.app/api?username=Florence-Navet&show_icons=true&theme=tokyonight)
 ![Top Langages](https://github-readme-stats.vercel.app/api/top-langs/?username=Florence-Navet&layout=compact&theme=tokyonight&langs_count=10)

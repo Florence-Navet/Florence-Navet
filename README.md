@@ -55,7 +55,7 @@ Actuellement en formation à **La Plateforme** (Bachelor IT) et en alternance ch
 ➡️ Application de chat en temps réel via TCP/IP, interface rétro inspirée de MSN Messenger, gestion multi-clients, channels et invitations.  
 🔗 https://github.com/Florence-Navet/Back2MSN
 
-🧩 **Tile Twister 2048 (C++ / projet individuel)**  
+🧩 **Tile Twister 2048 (C++ / projet à 3)**  
 ➡️ Reproduction du jeu 2048 avec gestion des scores, détection victoire/défaite, rendu graphique SDL3 et support Docker.  
 🔗 https://github.com/Florence-Navet/TileTwister-2048
 
@@ -124,6 +124,7 @@ Actuellement en formation à **La Plateforme** (Bachelor IT) et en alternance ch
 
 [![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Florence-Navet&theme=tokyonight)](https://github.com/vn7n24fzkq/github-profile-summary-cards)  
 [![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-repo?username=Florence-Navet&theme=tokyonight)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+
 
 
 

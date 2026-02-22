@@ -44,19 +44,19 @@ Actuellement en formation à **La Plateforme** (Bachelor IT) et en alternance ch
 
 ## 🚀 Projets (sélection)
 
-💬 **Back2MSN – Clone MSN Messenger (C++ / Qt, projet en équipe)**  
+💬 **Back2MSN – Clone MSN Messenger (C++ / Qt, projet individuel)**  
 ➡️ Application de chat en temps réel via TCP/IP, interface rétro inspirée de MSN Messenger, gestion multi-clients, channels et invitations.  
 🔗 https://github.com/Florence-Navet/Back2MSN
 
-🧩 **Tile Twister 2048 (C++ / SDL3)**  
+🧩 **Tile Twister 2048 (C++ / projet individuel)**  
 ➡️ Reproduction du jeu 2048 avec gestion des scores, détection victoire/défaite, rendu graphique SDL3 et support Docker.  
 🔗 https://github.com/Florence-Navet/TileTwister-2048
 
-🎮 **Jeu Brick Breaker en C++ (SFML)**  
+🎮 **Jeu Brick Breaker en C++ (SFML, projet à 3)**  
 ➡️ Jeu arcade rétro avec système de vies, plusieurs niveaux et briques.  
 🔗 https://github.com/Florence-Navet/brick-breaker
 
-🕹️ **Jeu RPG sur Unity (C#)**  
+🕹️ **Jeu RPG sur Unity (C#, projet à 3)**  
 ➡️ Menu interactif, map d'exploration, système de combat, inventaire (potions / fuite).  
 🔗 https://github.com/Florence-Navet/uniquest
 
@@ -68,7 +68,7 @@ Actuellement en formation à **La Plateforme** (Bachelor IT) et en alternance ch
 ➡️ Conversion texte ↔ bases numériques (binaire/décimal/hex…), + chiffrement César.  
 🔗 https://github.com/Florence-Navet/globalConverter
 
-🐉 **Jeu Pokémon (Python / Pygame)**  
+🐉 **Jeu Pokémon (Python / Pygame / projet d'équipe)**  
 ➡️ Map + combats Pokémon.  
 🔗 https://github.com/Florence-Navet/pokemon
 
@@ -80,7 +80,7 @@ Actuellement en formation à **La Plateforme** (Bachelor IT) et en alternance ch
 ➡️ Interface graphique et gameplay complet.  
 🔗 https://github.com/Florence-Navet/pendu
 
-📦 **Gestion de Stock (C# / Console)**  
+📦 **Gestion de Stock (C# / Console / projet individuel)**  
 ➡️ Modélisation + gestion de mouvements de stock, alertes et logique métier.  
 🔗 https://github.com/Florence-Navet/runtrack-gestion_de_stock
 

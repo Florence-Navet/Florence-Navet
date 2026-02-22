@@ -23,7 +23,7 @@ Actuellement en formation à **La Plateforme** (Bachelor IT) et en alternance ch
 
 🎯 Objectif : créer des applications modernes, fiables et agréables à utiliser, en progressant sur des projets concrets.
 
-📍 Toulon, France (mobile)  
+📍 Arles, France (mobile)  
 📩 **Florence.Navet@outlook.fr**  
 🔗 [LinkedIn](https://www.linkedin.com/in/florence-navet-434131300/) | [Portfolio](https://florence-navet.github.io/Portefolio_responsive/)
 
@@ -124,6 +124,7 @@ Actuellement en formation à **La Plateforme** (Bachelor IT) et en alternance ch
 
 [![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Florence-Navet&theme=tokyonight)](https://github.com/vn7n24fzkq/github-profile-summary-cards)  
 [![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-repo?username=Florence-Navet&theme=tokyonight)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+
 
 
 

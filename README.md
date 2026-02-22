@@ -2,10 +2,10 @@
 
 ![Profil Views](https://komarev.com/ghpvc/?username=enolaworld&label=Vues%20du%20profil&color=36CEEC&style=flat)
 
-# 👋 Bienvenue sur le GitHub de Florence Navet
+# 👋 Bienvenue sur mon Github
 
 > Ici vous trouverez mes projets, mon parcours et mes compétences.  
-> Je construis des applications et des jeux en mettant l’accent sur la logique, la qualité du code et l’expérience utilisateur.
+> Je construis des applications et des jeux en mettant l'accent sur la logique, la qualité du code et l'expérience utilisateur.
 
 ---
 
@@ -44,12 +44,20 @@ Actuellement en formation à **La Plateforme** (Bachelor IT) et en alternance ch
 
 ## 🚀 Projets (sélection)
 
+💬 **Back2MSN – Clone MSN Messenger (C++ / Qt, projet en équipe)**  
+➡️ Application de chat en temps réel via TCP/IP, interface rétro inspirée de MSN Messenger, gestion multi-clients, channels et invitations.  
+🔗 https://github.com/Florence-Navet/Back2MSN
+
+🧩 **Tile Twister 2048 (C++ / SDL3)**  
+➡️ Reproduction du jeu 2048 avec gestion des scores, détection victoire/défaite, rendu graphique SDL3 et support Docker.  
+🔗 https://github.com/Florence-Navet/TileTwister-2048
+
 🎮 **Jeu Brick Breaker en C++ (SFML)**  
 ➡️ Jeu arcade rétro avec système de vies, plusieurs niveaux et briques.  
 🔗 https://github.com/Florence-Navet/brick-breaker
 
 🕹️ **Jeu RPG sur Unity (C#)**  
-➡️ Menu interactif, map d’exploration, système de combat, inventaire (potions / fuite).  
+➡️ Menu interactif, map d'exploration, système de combat, inventaire (potions / fuite).  
 🔗 https://github.com/Florence-Navet/uniquest
 
 💣 **Démineur en Python (Pygame)**  

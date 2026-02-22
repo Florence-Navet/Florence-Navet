@@ -1,5 +1,8 @@
-  [![Ma bannière](https://github.com/Florence-Navet/Florence-Navet/blob/main/enola.png)](https://github.com/Florence-Navet/Florence-Navet/blob/main/enola.png)
-
+<p align="center">
+  <a href="https://github.com/Florence-Navet/Florence-Navet/blob/main/enola.png">
+    <img src="https://github.com/Florence-Navet/Florence-Navet/blob/main/enola.png" alt="Ma bannière">
+  </a>
+</p>
 ![Profil Views](https://komarev.com/ghpvc/?username=enolaworld&label=Vues%20du%20profil&color=36CEEC&style=flat)
 
 # 👋 Bienvenue sur mon Github
@@ -117,4 +120,5 @@ Actuellement en formation à **La Plateforme** (Bachelor IT) et en alternance ch
 
 [![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Florence-Navet&theme=tokyonight)](https://github.com/vn7n24fzkq/github-profile-summary-cards)  
 [![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-repo?username=Florence-Navet&theme=tokyonight)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+
 

@@ -114,7 +114,7 @@ Actuellement en formation à **La Plateforme** (Bachelor IT) et en alternance ch
 ## 📊 Statistiques GitHub
 
 ![Stats GitHub](https://github-stats-alpha.vercel.app/api?username=Florence-Navet&theme=tokyonight)  
-![Top Langages](https://github-readme-stats.vercel.app/api/top-langs/?username=Florence-Navet&layout=pie&theme=tokyonight&langs_count=10)  
+![Top Langages](https://tokei.rs/b1/github/Florence-Navet?category=code)  
 
 ## 🏆 GitHub Profile Trophy
 
@@ -126,6 +126,7 @@ Actuellement en formation à **La Plateforme** (Bachelor IT) et en alternance ch
 
 [![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Florence-Navet&theme=tokyonight)](https://github.com/vn7n24fzkq/github-profile-summary-cards)  
 [![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-repo?username=Florence-Navet&theme=tokyonight)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+
 
 
 

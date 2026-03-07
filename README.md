@@ -118,8 +118,6 @@ Actuellement en formation à **La Plateforme** (Bachelor IT) et en alternance ch
 
 ## 🏆 GitHub Profile Trophy
 
-[![Trophées GitHub](https://github-profile-trophy.vercel.app/?username=Florence-Navet&theme=tokyonight&margin-w=15&margin-h=15)](https://github.com/ryo-ma/github-profile-trophy)
-
 [![trophy](https://github-trophies.vercel.app/?username=Florence-Navet&theme=tokyonight&margin-w=15)](https://github.com/ryo-ma/github-profile-trophy)  
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=Florence-Navet&theme=tokyonight)  
@@ -128,6 +126,7 @@ Actuellement en formation à **La Plateforme** (Bachelor IT) et en alternance ch
 
 [![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Florence-Navet&theme=tokyonight)](https://github.com/vn7n24fzkq/github-profile-summary-cards)  
 [![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-repo?username=Florence-Navet&theme=tokyonight)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+
 
 
 

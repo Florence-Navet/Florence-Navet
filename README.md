@@ -19,7 +19,7 @@
 ## 🧠 À propos de moi
 
 Je suis, développeuse logiciel/web en reconversion professionnelle.  
-Actuellement en formation à **La Plateforme** (Bachelor IT) et en alternance chez **NGE**, je développe des projets en **C# / C++ / Java / Web**.
+Actuellement en formation à **La Plateforme** (Bachelor IT) et en alternance chez **NGE**, je développe des projets en **C# / .NET/ BLalor Wasm Maui Hybrid / C++ / Java / Web**.
 
 🎯 Objectif : créer des applications modernes, fiables et agréables à utiliser, en progressant sur des projets concrets.
 
@@ -123,6 +123,7 @@ Actuellement en formation à **La Plateforme** (Bachelor IT) et en alternance ch
 
 [![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Florence-Navet&theme=tokyonight)](https://github.com/vn7n24fzkq/github-profile-summary-cards)  
 [![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-repo?username=Florence-Navet&theme=tokyonight)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+
 
 
 

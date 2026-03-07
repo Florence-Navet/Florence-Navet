@@ -120,12 +120,13 @@ Actuellement en formation à **La Plateforme** (Bachelor IT) et en alternance ch
 
 [![trophy](https://github-trophies.vercel.app/?username=Florence-Navet&theme=tokyonight&margin-w=15)](https://github.com/ryo-ma/github-profile-trophy)  
 
-![GitHub Streak](https://streak-stats.demolab.com?user=Florence-Navet&theme=tokyonight)  
+[![Top Langs](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Florence-Navet&theme=tokyonight)](https://github.com/vn7n24fzkq/github-profile-summary-cards)  
 
 ## 🔝 Top Contributed Repo
 
 [![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Florence-Navet&theme=tokyonight)](https://github.com/vn7n24fzkq/github-profile-summary-cards)  
 [![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-repo?username=Florence-Navet&theme=tokyonight)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+
 
 
 

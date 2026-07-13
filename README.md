@@ -19,7 +19,7 @@
 ## 🧠 À propos de moi
 
 Je suis, développeuse logiciel/web en reconversion professionnelle.  
-Actuellement en formation à **La Plateforme** (Bachelor IT) et en alternance chez **NGE**, je développe des projets en **C# / .NET/ BLazor Wasm Maui Hybrid / C++ / Java / Web**.
+Actuellement en formation à **La Plateforme** (Bachelor IT) et en alternance chez **NGE**, je développe des projets en **C# / .NET/ BLazor Wasm Maui Hybrid / C++ / Java / Web / NodJs / Vite**.
 
 🎯 Objectif : créer des applications modernes, fiables et agréables à utiliser, en progressant sur des projets concrets.
 

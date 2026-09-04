@@ -1,6 +1,6 @@
 <p align="center">
-  <a href="https://github.com/Florence-Navet/Florence-Navet/blob/main/enola.png">
-    <img src="https://github.com/Florence-Navet/Florence-Navet/blob/main/enola.png" alt="Ma bannière">
+  <a href="https://github.com/Florence-Navet/Florence-Navet/blob/main/enola_background.png">
+    <img src="https://github.com/Florence-Navet/Florence-Navet/blob/main/enola_background.png" alt="Ma bannière">
   </a>
 </p>
 
